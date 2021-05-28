@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.icon {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9F0A20;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #05831D;
+    font-weight: bold;
+}
+
+#item1 {
+    color: #9F0A20;
+    font-size: 20px;
+}
+
+#item2 {
+    color: #9F0A20;
+    font-size: 20px;
+}
+
+#item3 {
+    color: #9F0A20;
+    font-size: 20px;
+}
+
+#item4 {
+    color: #9F0A20;
+    font-size: 20px;
+}
+
+.banner-section1 {
+    background: linear-gradient(#E0FEBE, #D7F9B0, #CBEFA3);
+    height: 30%;
+}
+
+.banner-section2 {
+    background: linear-gradient(#FBEDE2, #FFE2CA, #F1DDCD);
+    height: 30%;
+}
+
+.banner-section3 {
+    background: linear-gradient(#E2FCF5, #CBF8EC, #BAE4D8);
+    height: 30%;
+}
+
+.bottom-end {
+    background: linear-gradient(#E0FEBE);
+}
+
+.top-text-container {
+    font-weight: bold;
+    font-size: 27px;
+    color: #9F0A20;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.top-image {
+    width: 15%;
+}
+
+body {
+    font-family: Caveat;
+}
+
+.heading {
+    color: #298F07;
+    font-size: 40px;
+}
+
+.top-banner {
+    padding: 20px;
+}
+
+.card {
+    background-color: #FBFAAB;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.card-image1 {
+    width: 100%;
+}
+
+.card-para {
+    font-size: 26px;
+    color: #227606;
+}
+
+.bottom-para {
+    color: #9F0A20;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+.bottom-sec2 {
+    background: linear-gradient(#E0FEBE, #D7F9B0, #CBEFA3);
+    padding: 20px;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+
+.food-heading {
+    color: #720A10;
+    font-weight: bold;
+}
+
+.slip-image {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.slip-text {
+    padding: 15px;
+}
+
+.slip-texts {
+    color: #720A10;
+    font-size: 20px;
+}
+
+.slip {
+    border-radius: 15px;
+    background-color: #F3F0A2;
+}
+
+.booklet-image {
+    width: 50%;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.booklet-data {
+    width: 40%;
+    color: #F71950;
+}
+
+.booklet {
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #E2FCF5;
+}
+
+.footer {
+    margin-top: 30px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: #F71950;
+}
